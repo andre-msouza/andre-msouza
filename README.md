@@ -1,8 +1,8 @@
 ## Bem-vindo(a) ao perfil do André Souza 😁
 
  <div>
-   <a href="https://github.com/andre-msouza">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andre-msouza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <a href="https://github.com/andre-msouza"></a>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andre-msouza&show_icons=true&theme=tokyonight"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre-msouza&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
